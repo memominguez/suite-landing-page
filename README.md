@@ -43,8 +43,10 @@ Captures made at a desktop screen zoom of 80%. The upper and lower view of the p
 
 ### Links
 
-- Solution URL: Pending
-- Live Site URL: Pending
+
+- Solution URL:  [Github repository](https://github.com/memominguez/suite-landing-page)
+- Live Site URL:  [Github pages](https://memominguez.github.io/suite-landing-page)
+
 
 ## My process
 
